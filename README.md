@@ -1,0 +1,1 @@
+This is a fully responsive web-based student registration system designed for ABES Engineering College, Ghaziabad. The portal provides an intuitive interface for new students to register online by submitting their personal, academic, and login credentials.
